@@ -12,10 +12,9 @@ realistic sample company, so you can see what "good" looks like, then replace th
 your own facts.
 
 The kit is a practical companion to two books by Prof. Dr. Mohamed Fawzi Elgendi (Fawzooz):
-[**AISEC Mastery**](https://fawzooz.ai/en/books/aisec/) (ISO/IEC 42001) and **AppSec Mastery** (ISO/IEC 27001 and secure software development).
+[**AISEC Mastery**] (ISO/IEC 42001) and **AppSec Mastery** (ISO/IEC 27001 and secure software development).
 
-> TWYNTRUST v2 succeeds the earlier **TRACE** framework (v1, AIMS only), which remains at
-> [fawzooz/TRACE](https://github.com/fawzooz/TRACE).
+> TWYNTRUST v2 succeeds the earlier **TRACE** framework (v1, AIMS only).
 
 ---
 
